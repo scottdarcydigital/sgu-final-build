@@ -440,3 +440,19 @@ Received Import Request.
 Start importing Assets/Models/FBX/GateRoom/Console_Dial.fbx using Guid(69187554dff09ec428f68c95c45c4a1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fa548bfdc6711e3321e12f7d28198a7') in 0.418594 seconds 
   Import took 0.428790 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 15368.968324 seconds.
+  path: Assets/Models/FBX/GateRoom/HandRail_Top_Small.fbx
+  artifactKey: Guid(58667cfcc3cc75b4dbe70adb0256a98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/GateRoom/HandRail_Top_Small.fbx using Guid(58667cfcc3cc75b4dbe70adb0256a98b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ff900e1099eeed8fbab28c96a12af2c') in 0.436116 seconds 
+  Import took 1.051124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Models/FBX/GateRoom/PatternBehindGate_keep.fbx
+  artifactKey: Guid(d13182873e1cfa247b1ef355b30abd05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/GateRoom/PatternBehindGate_keep.fbx using Guid(d13182873e1cfa247b1ef355b30abd05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f060b4574028aba7befb0a72c15851f') in 0.068291 seconds 
+  Import took 0.086609 seconds .
+
