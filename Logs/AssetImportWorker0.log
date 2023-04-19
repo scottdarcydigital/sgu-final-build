@@ -1,0 +1,474 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.21f1 (a38c86f6690f) revision 10718342'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.1556; Version 1909; 64bit' Language: 'en' Physical Memory: 8146 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\2020.3.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GitHubRepos/sgu-final-build
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56660
+Successfully changed project path to: D:/GitHubRepos/sgu-final-build
+D:/GitHubRepos/sgu-final-build
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 133.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.21f1 (a38c86f6690f)
+[Subsystems] Discovering subsystems at path D:/Program Files/2020.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GitHubRepos/sgu-final-build/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c82)
+    Vendor:   
+    VRAM:     4018 MB
+    Driver:   31.0.15.2225
+Initialize mono
+Mono path[0] = 'D:/Program Files/2020.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/2020.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/2020.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56984
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/2020.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003965 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 124.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.303 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2303ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (722ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (225ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (315ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (125ms)
+				BeforeProcessingInitializeOnLoad (18ms)
+				ProcessInitializeOnLoadAttributes (123ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.029313 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 135.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.590 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2591ms)
+		BeginReloadAssembly (211ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (2274ms)
+			LoadAssemblies (232ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (582ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (140ms)
+			SetupLoadedEditorAssemblies (1111ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (136ms)
+				BeforeProcessingInitializeOnLoad (149ms)
+				ProcessInitializeOnLoadAttributes (480ms)
+				ProcessInitializeOnLoadMethodAttributes (333ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 1.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4160 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.8 MB.
+System memory in use after: 194.0 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 4600.
+Total: 5.637700 ms (FindLiveObjects: 0.450800 ms CreateObjectMapping: 0.245300 ms MarkObjects: 4.826500 ms  DeleteObjects: 0.112800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Models/FBX/Coridoors/Corridor_Chunk_3.fbx
+  artifactKey: Guid(cb0e311c74ded6f49abfcb157b0ab47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Corridor_Chunk_3.fbx using Guid(cb0e311c74ded6f49abfcb157b0ab47d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45d19e6c23022254a95b8acc9239cde') in 4.244556 seconds 
+  Import took 4.258446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Models/FBX/Coridoors/Corridor_Square_Door_1_Button.fbx
+  artifactKey: Guid(f5070faa4a3e17a499db973883458248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Corridor_Square_Door_1_Button.fbx using Guid(f5070faa4a3e17a499db973883458248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf5643c96a19492727764f4960ada6d4') in 0.325735 seconds 
+  Import took 0.334688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Models/FBX/Coridoors/Corridor_Chunk_1.fbx
+  artifactKey: Guid(7fec179c20f51854094f26354ebb94a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Corridor_Chunk_1.fbx using Guid(7fec179c20f51854094f26354ebb94a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '545058135c8cac1cb201ffe414480767') in 2.854081 seconds 
+  Import took 2.864778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Models/FBX/Coridoors/Corridor_CircleArch.fbx
+  artifactKey: Guid(3cdc7f0ed1b60e744bfcc7491498d8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Corridor_CircleArch.fbx using Guid(3cdc7f0ed1b60e744bfcc7491498d8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '811aef5df7dae9112f794dd9e28ff98c') in 0.342471 seconds 
+  Import took 0.352314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/Models/FBX/Coridoors/Corridor_Chunk_1_45Degree.fbx
+  artifactKey: Guid(c2d997efd3c8aaf4db602438c9fcb8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Corridor_Chunk_1_45Degree.fbx using Guid(c2d997efd3c8aaf4db602438c9fcb8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c69734f5f9cbb8e611ecfc7ebfd4fbb') in 2.397664 seconds 
+  Import took 2.410912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Models/FBX/Coridoors/Corridor_Chunk_End_Tile_Filler_3.fbx
+  artifactKey: Guid(c54e5dba36e83f54bbcba95133b34a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Corridor_Chunk_End_Tile_Filler_3.fbx using Guid(c54e5dba36e83f54bbcba95133b34a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79a01783f9bcae073b5c5beb1737cd2e') in 0.066236 seconds 
+  Import took 0.079185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.974750 seconds.
+  path: Assets/Models/FBX/Coridoors/import check
+  artifactKey: Guid(b42b6446ad8d7e447b2ac8f5f64525be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check using Guid(b42b6446ad8d7e447b2ac8f5f64525be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6354c72b0ceb752d92e359a5b1f7814') in 0.010700 seconds 
+  Import took 0.023544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.124580 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1Collision_Convex.fbx
+  artifactKey: Guid(a6a18140dbec4a84184f9434f987d523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1Collision_Convex.fbx using Guid(a6a18140dbec4a84184f9434f987d523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5304dc78cf289ba685628033478f1484') in 0.098077 seconds 
+  Import took 0.108666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.426151 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock.fbx
+  artifactKey: Guid(b45dc44cd3a417c47a4f3e18d81a0542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock.fbx using Guid(b45dc44cd3a417c47a4f3e18d81a0542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb806e5e42e378d8f0cee68e5df212c') in 0.100954 seconds 
+  Import took 0.112277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.085538 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Bottom.fbx
+  artifactKey: Guid(6bdf9fe0269d3e14ebc761c919ae85ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Bottom.fbx using Guid(6bdf9fe0269d3e14ebc761c919ae85ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8051cab0c11c47bdb96ea9b6dee819') in 0.081782 seconds 
+  Import took 0.101253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.884901 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Bottom_Half.fbx
+  artifactKey: Guid(7b2901cd8fcf33a4294b1cd2bd0549dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Bottom_Half.fbx using Guid(7b2901cd8fcf33a4294b1cd2bd0549dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b28734a3d7cd2dc983ef7183036d3c5') in 0.077405 seconds 
+  Import took 0.091533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.597803 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Full.fbx
+  artifactKey: Guid(e9227533ed2405c48805d32ca9369fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Full.fbx using Guid(e9227533ed2405c48805d32ca9369fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9253e99a470411060a528df8a3916561') in 0.072066 seconds 
+  Import took 0.084356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.232728 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Full_Half.fbx
+  artifactKey: Guid(45e9f3112e0eb3843bf6d02a257f6111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Full_Half.fbx using Guid(45e9f3112e0eb3843bf6d02a257f6111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514adbd5d08b56c19d68d33eb0b84875') in 0.081704 seconds 
+  Import took 0.092037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.429161 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Top.fbx
+  artifactKey: Guid(e3c885e6befe2674cb5bcd7c246f3dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Top.fbx using Guid(e3c885e6befe2674cb5bcd7c246f3dd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd231810b63daa1930771f9152a26db') in 0.071764 seconds 
+  Import took 0.086983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.479678 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Top_Half.fbx
+  artifactKey: Guid(e21242023334858468c7d4ed8ab65fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Bevelled_Top_Half.fbx using Guid(e21242023334858468c7d4ed8ab65fae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4da7b3f46a139369576c215fe4ea7db') in 0.092988 seconds 
+  Import took 0.103195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.487817 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Overlay.fbx
+  artifactKey: Guid(75297b24a1e427745ac3c5b735a83b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridoor_Cunk_1SquareEndingBlock_Overlay.fbx using Guid(75297b24a1e427745ac3c5b735a83b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39cde18c3a6debb43add63992abdff9b') in 0.077396 seconds 
+  Import took 0.088755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.362477 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1.fbx
+  artifactKey: Guid(251b77d93c9bcad49aa334650897cdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1.fbx using Guid(251b77d93c9bcad49aa334650897cdb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c97eb2729d10f47896175507c66df1b') in 2.982225 seconds 
+  Import took 2.996030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.322371 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_45Degree.fbx
+  artifactKey: Guid(0de2803c8e132024a95abb85bfc1e954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_45Degree.fbx using Guid(0de2803c8e132024a95abb85bfc1e954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f019fffeef93b5213bf5e816162b62') in 2.165603 seconds 
+  Import took 2.178503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.349748 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_Door_1.fbx
+  artifactKey: Guid(e839914d43d4c124a8a3a7aa7c7ade01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_Door_1.fbx using Guid(e839914d43d4c124a8a3a7aa7c7ade01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec6c524ee228acf12a95cb47c44f5d0') in 0.119661 seconds 
+  Import took 0.131376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.364581 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_DoorFrame_1.fbx
+  artifactKey: Guid(671f452b7fb00834581f2304ba5f9d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_DoorFrame_1.fbx using Guid(671f452b7fb00834581f2304ba5f9d67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd1085e51e43e47347b0379d9a33070') in 0.139284 seconds 
+  Import took 0.150488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.906821 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_Half.fbx
+  artifactKey: Guid(5524f22304fb0bc43a8d452237f2cd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_Half.fbx using Guid(5524f22304fb0bc43a8d452237f2cd56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aae68ee2ba96ea04fbf155878fce6e53') in 1.996730 seconds 
+  Import took 2.010870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.988911 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_PipesOverlay.fbx
+  artifactKey: Guid(06561c73f38004d46b549f5214dfa34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_PipesOverlay.fbx using Guid(06561c73f38004d46b549f5214dfa34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd103ec8ecc45b860f8c6d906cc4deea5') in 0.079870 seconds 
+  Import took 0.091514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.618016 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_PipesOverlay_Half.fbx
+  artifactKey: Guid(aa51328310c81ac48ae8479121db00ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_PipesOverlay_Half.fbx using Guid(aa51328310c81ac48ae8479121db00ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936f7f4cbd552c0ffe87b3044d1ee659') in 0.122935 seconds 
+  Import took 0.133619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.547197 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_quater.fbx
+  artifactKey: Guid(c50efec81e64e084e8b56559b6c6ce27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_quater.fbx using Guid(c50efec81e64e084e8b56559b6c6ce27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12315e683e8aaa835a854d1dc8d9014c') in 1.827074 seconds 
+  Import took 1.839844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_Units_Only.fbx
+  artifactKey: Guid(8e9cd40213a596a479119852be96fa19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_Units_Only.fbx using Guid(8e9cd40213a596a479119852be96fa19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ba7a1c9c74336ddb4458d558d924aca') in 0.830281 seconds 
+  Import took 0.842121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_WallOverlay_Half.fbx
+  artifactKey: Guid(6f75a205031cd7745b0cc6dfe6601193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_WallOverlay_Half.fbx using Guid(6f75a205031cd7745b0cc6dfe6601193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85dab6f1b086626f0dc8b8e4f632dfc5') in 0.083677 seconds 
+  Import took 0.094925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.992300 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_WallOverlay_Half_small.fbx
+  artifactKey: Guid(403a651c8aaf5024f936a9fac1a8b5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_WallOverlay_Half_small.fbx using Guid(403a651c8aaf5024f936a9fac1a8b5b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a9aa9192a3469622724337e398750d9') in 0.085502 seconds 
+  Import took 0.097705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.120087 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_with_Units.fbx
+  artifactKey: Guid(a3c7dbc29bc660241ac01e15d92a4eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_1_with_Units.fbx using Guid(a3c7dbc29bc660241ac01e15d92a4eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88347000320948977c56af9cb54d469e') in 3.450474 seconds 
+  Import took 3.465597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_2.fbx
+  artifactKey: Guid(d8d94c39b4a8f6f4996ac4f6ba8c2fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_2.fbx using Guid(d8d94c39b4a8f6f4996ac4f6ba8c2fac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6e93d185ad77f79da97e9c0b9d9ce66') in 2.464045 seconds 
+  Import took 2.479879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_3.fbx
+  artifactKey: Guid(87a649790fa38654ba1241dd259f8bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_3.fbx using Guid(87a649790fa38654ba1241dd259f8bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6dd91f03cb3306ecbdecd3d7cf201d0') in 3.759946 seconds 
+  Import took 3.774168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_3_45Degree.fbx
+  artifactKey: Guid(033ee648e27bcbc448c00d78b5768a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_3_45Degree.fbx using Guid(033ee648e27bcbc448c00d78b5768a32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1994217f15ad9f6560b5dcfdbc3496d') in 2.335231 seconds 
+  Import took 2.350677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_2_End_Half.fbx
+  artifactKey: Guid(7145c1cca4bf19a4ba6d7be3c853afb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_2_End_Half.fbx using Guid(7145c1cca4bf19a4ba6d7be3c853afb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89f4be5b01850cef7721a2aaa90323a6') in 0.692733 seconds 
+  Import took 0.705904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.181149 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_3_Half.fbx
+  artifactKey: Guid(c864e8d03ffe23644a098660f13216f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_3_Half.fbx using Guid(c864e8d03ffe23644a098660f13216f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4904d93f06fffba384f770456a3fb2') in 2.138828 seconds 
+  Import took 2.154621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.820237 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_4.fbx
+  artifactKey: Guid(7716471764a69794bbcf9562bd6b4197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_4.fbx using Guid(7716471764a69794bbcf9562bd6b4197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d0b0110aa9f0a4a655ced82753789ea') in 3.004491 seconds 
+  Import took 3.019941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_End_Tile_Filler_1.fbx
+  artifactKey: Guid(d149193dce800f5429f62d584c5040d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_End_Tile_Filler_1.fbx using Guid(d149193dce800f5429f62d584c5040d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c276f5ff149003477ae5c94a0bcae4b9') in 0.081261 seconds 
+  Import took 0.094495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_4_Half.fbx
+  artifactKey: Guid(3b366bc6e6c4ec54f97827cd9b4bc118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_4_Half.fbx using Guid(3b366bc6e6c4ec54f97827cd9b4bc118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4894674e5834bbb5b495d551a2879c6') in 2.155295 seconds 
+  Import took 2.169966 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_End_Tile_Filler_2.fbx
+  artifactKey: Guid(cc1000f3e1a64614d8a5d36fb1611db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_End_Tile_Filler_2.fbx using Guid(cc1000f3e1a64614d8a5d36fb1611db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7890e718b8acd983f96eb0c773848965') in 0.082426 seconds 
+  Import took 0.096091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_End_Tile_Filler_3.fbx
+  artifactKey: Guid(91b49427abe91ed42ad2a446bb0067b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Chunk_End_Tile_Filler_3.fbx using Guid(91b49427abe91ed42ad2a446bb0067b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a622e61ab38c4f85c465e1eaf139882f') in 0.077960 seconds 
+  Import took 0.091901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.501195 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_CircleArch.fbx
+  artifactKey: Guid(3ae9259eed67710459fbe3d727f10aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_CircleArch.fbx using Guid(3ae9259eed67710459fbe3d727f10aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f502674aa7b6eb702c13572e00eb5403') in 0.440831 seconds 
+  Import took 0.454674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.244680 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Square_Door_1.fbx
+  artifactKey: Guid(f3d4e7762adb5a846a669f6e4c0237ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Square_Door_1.fbx using Guid(f3d4e7762adb5a846a669f6e4c0237ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d284959606e10229799cc3df985b3fb') in 0.462270 seconds 
+  Import took 0.487884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.448034 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_Square_Door_1_Button.fbx
+  artifactKey: Guid(c968448f441db0f449e244f1a1ff1a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_Square_Door_1_Button.fbx using Guid(c968448f441db0f449e244f1a1ff1a41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f56d195ff9ec3187cb45eccfcb740e8') in 0.345803 seconds 
+  Import took 0.359099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.207490 seconds.
+  path: Assets/Models/FBX/Coridoors/import check/Corridor_TopLights_SinglePannel_1.fbx
+  artifactKey: Guid(8d5b0eed56a726f4fafe69abc8f54216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/import check/Corridor_TopLights_SinglePannel_1.fbx using Guid(8d5b0eed56a726f4fafe69abc8f54216) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d43ff8199f36152bc3caaafce5a681e') in 0.118171 seconds 
+  Import took 0.132161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 185.897675 seconds.
+  path: Assets/Models/FBX/Doors/Corridor_Square_Door_1_Button.fbx
+  artifactKey: Guid(c074cd0f631f7214b804b30651e9070f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Doors/Corridor_Square_Door_1_Button.fbx using Guid(c074cd0f631f7214b804b30651e9070f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b50916101bf77ae666922105d25568f') in 0.393374 seconds 
+  Import took 0.409937 seconds .
+
