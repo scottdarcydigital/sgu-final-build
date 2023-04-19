@@ -48,6 +48,7 @@
   </PropertyGroup>
   <ItemGroup>
      <Compile Include="Assets\FirstPersion AIO Pack\FirstPersonAIO\FirstPersonAIO.cs" />
+     <Compile Include="Assets\Scripts\DoorOpen.cs" />
      <None Include="Assets\FirstPersion AIO Pack\README.txt" />
  <Reference Include="UnityEngine">
  <HintPath>D:/Program Files/2020.3.21f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
