@@ -472,3 +472,163 @@ Received Import Request.
 Start importing Assets/Models/FBX/Doors/Corridor_Square_Door_1_Button.fbx using Guid(c074cd0f631f7214b804b30651e9070f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b50916101bf77ae666922105d25568f') in 0.393374 seconds 
   Import took 0.409937 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 138.749489 seconds.
+  path: Assets/Models/FBX/Console and Controls
+  artifactKey: Guid(0c4e9b40deb24e9408d4b2340fe3f6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Console and Controls using Guid(0c4e9b40deb24e9408d4b2340fe3f6eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f32d0dd30b87d796f88a02aafa2502a5') in 0.009443 seconds 
+  Import took 0.025851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.076007 seconds.
+  path: Assets/Models/FBX/Console and Controls/console-new.fbx
+  artifactKey: Guid(b5692ed0fe30e1f4c84107a8e994638d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Console and Controls/console-new.fbx using Guid(b5692ed0fe30e1f4c84107a8e994638d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '165731005006d111c9ff1da41715ce1d') in 5.324976 seconds 
+  Import took 5.350636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.584377 seconds.
+  path: Assets/Models/FBX/Console and Controls/console.fbx
+  artifactKey: Guid(cb946e8678fb80749a70be3ebbd79dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Console and Controls/console.fbx using Guid(cb946e8678fb80749a70be3ebbd79dcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5e32c198874a5fb86d5625b4a723836') in 4.901387 seconds 
+  Import took 4.928775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.798961 seconds.
+  path: Assets/Models/FBX/Console and Controls/Console_Dial.fbx
+  artifactKey: Guid(3e383324ecb95a74b8773cd122105f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Console and Controls/Console_Dial.fbx using Guid(3e383324ecb95a74b8773cd122105f74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24fc313143dde95f56c2327494fe8b60') in 0.389226 seconds 
+  Import took 0.405139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.510350 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core.fbx
+  artifactKey: Guid(645bd70c9bd4e6749927fe5c0a3da11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core.fbx using Guid(645bd70c9bd4e6749927fe5c0a3da11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '378f34c04c371481e5964f6fe3d45f57') in 8.921829 seconds 
+  Import took 8.950998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_Roof.mtl
+  artifactKey: Guid(7918900068d3c7241841788f8ea8bb86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_Roof.mtl using Guid(7918900068d3c7241841788f8ea8bb86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd96780fb91b00210c9a8d151a514e900') in 0.023990 seconds 
+  Import took 0.042462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_Floor.fbx
+  artifactKey: Guid(6e141f9853fe59043ae5d9d3504b3c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_Floor.fbx using Guid(6e141f9853fe59043ae5d9d3504b3c36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3249608c3c54b171fd02ab0d169b54f') in 0.487088 seconds 
+  Import took 0.505226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.376369 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_Roof.obj
+  artifactKey: Guid(3cd2e3b846cb59f478775b8271f55ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_Roof.obj using Guid(3cd2e3b846cb59f478775b8271f55ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a411037d7ef7b88504357077c3ca845') in 0.358624 seconds 
+  Import took 0.375815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.257304 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_Roof_Square.fbx
+  artifactKey: Guid(4f9ba801d9fbf0740a3efd193671381f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_Roof_Square.fbx using Guid(4f9ba801d9fbf0740a3efd193671381f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8645ea55667be54a45983d3ead7e5c4') in 0.080615 seconds 
+  Import took 0.097433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.804030 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_Roof_vent_1.fbx
+  artifactKey: Guid(0fc30dded4b621948a80c665b2cae001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_Roof_vent_1.fbx using Guid(0fc30dded4b621948a80c665b2cae001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d75e562db0ab563ec15d2c600a2f4e5') in 0.141027 seconds 
+  Import took 0.158202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.651743 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_Roof_vent_2.fbx
+  artifactKey: Guid(4131184a4aa3ac74294b5e3793b9f98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_Roof_vent_2.fbx using Guid(4131184a4aa3ac74294b5e3793b9f98a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f632e116f3b61eb995f2a75f5d90a41') in 0.119957 seconds 
+  Import took 0.137654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.520880 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_TopLights.fbx
+  artifactKey: Guid(f8be5e5d8315d2042a250900755aa138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_TopLights.fbx using Guid(f8be5e5d8315d2042a250900755aa138) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a29ef8e73d60d9e30cffae768d38f7') in 0.357525 seconds 
+  Import took 0.374638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.291697 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_Wall_1.fbx
+  artifactKey: Guid(e9a1beffddc6b834ea23cbfbbd38b658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_Wall_1.fbx using Guid(e9a1beffddc6b834ea23cbfbbd38b658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f52703cefc434ce110136f8da8dfeb0') in 0.239143 seconds 
+  Import took 0.255557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.762763 seconds.
+  path: Assets/Models/FBX/Control Rooms/Apple_Core_Wall_LoopPatterns.fbx
+  artifactKey: Guid(c3989071392ec8a4989ea76055e8348c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Apple_Core_Wall_LoopPatterns.fbx using Guid(c3989071392ec8a4989ea76055e8348c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39194dff8172d4b39faaeb5e35f00706') in 0.084670 seconds 
+  Import took 0.102099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.733079 seconds.
+  path: Assets/Models/FBX/Control Rooms/Bookcase_Module.fbx
+  artifactKey: Guid(106da5bd4fdc79445b0596970cb742b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Bookcase_Module.fbx using Guid(106da5bd4fdc79445b0596970cb742b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79d2692c89ffb35037c7ee3eac2882a4') in 3.261742 seconds 
+  Import took 3.281727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Models/FBX/Control Rooms/FloorLightQuaters_Draft.fbx
+  artifactKey: Guid(b092ec9c974b6004d929951289db1e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/FloorLightQuaters_Draft.fbx using Guid(b092ec9c974b6004d929951289db1e47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76aee138072fda9eb235f19a62b6ed9f') in 0.075896 seconds 
+  Import took 0.092841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Models/FBX/Control Rooms/CurvePillar_Draft.fbx
+  artifactKey: Guid(90a36dff358cb004e922f787aed7d775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/CurvePillar_Draft.fbx using Guid(90a36dff358cb004e922f787aed7d775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936dbe4c072df7aaa27a56a2005f433f') in 0.082923 seconds 
+  Import took 0.100707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.351835 seconds.
+  path: Assets/Models/FBX/Control Rooms/Light_Pilar_1.fbx
+  artifactKey: Guid(aca2ab60d00947f4f960a874753c91bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/Light_Pilar_1.fbx using Guid(aca2ab60d00947f4f960a874753c91bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99959a28997368ad4068ccd6c7f1babc') in 0.195830 seconds 
+  Import took 0.214477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.026608 seconds.
+  path: Assets/Models/FBX/Control Rooms/sp-test.fbx
+  artifactKey: Guid(1ea9393487e33754fbf5d98d3b120329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/sp-test.fbx using Guid(1ea9393487e33754fbf5d98d3b120329) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deb1f1dfb03d7d3469850e4c49bdd358') in 0.055767 seconds 
+  Import took 0.075146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.988845 seconds.
+  path: Assets/Models/FBX/Control Rooms/window.fbx
+  artifactKey: Guid(19c04d138bf3dda428f832dd8e8258e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Control Rooms/window.fbx using Guid(19c04d138bf3dda428f832dd8e8258e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51dea2397ce865478aa4cc7bb2a037d6') in 0.233014 seconds 
+  Import took 0.250287 seconds .
+
