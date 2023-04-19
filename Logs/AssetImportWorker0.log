@@ -632,3 +632,28 @@ Received Import Request.
 Start importing Assets/Models/FBX/Control Rooms/window.fbx using Guid(19c04d138bf3dda428f832dd8e8258e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51dea2397ce865478aa4cc7bb2a037d6') in 0.233014 seconds 
   Import took 0.250287 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 8298.667049 seconds.
+  path: Assets/Models/FBX/Coridoors/Corridor_Chunk_1_45Degree.fbx
+  artifactKey: Guid(c2d997efd3c8aaf4db602438c9fcb8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Corridor_Chunk_1_45Degree.fbx using Guid(c2d997efd3c8aaf4db602438c9fcb8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eccd26c34c129e2971aea15d94a5cbc3') in 4.296196 seconds 
+  Import took 5.174932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3885.415142 seconds.
+  path: Assets/Models/FBX/Coridoors/Corridor_Chunk_1_45Degree.fbx
+  artifactKey: Guid(c2d997efd3c8aaf4db602438c9fcb8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Corridor_Chunk_1_45Degree.fbx using Guid(c2d997efd3c8aaf4db602438c9fcb8c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bf20f282cba1718bdae060276e9cf31') in 3.311807 seconds 
+  Import took 3.574657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.681806 seconds.
+  path: Assets/Models/FBX/GateRoom/Balcony_DoorFrame_2.fbx
+  artifactKey: Guid(0b5d5475957676d4d867dfbd4514acbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/GateRoom/Balcony_DoorFrame_2.fbx using Guid(0b5d5475957676d4d867dfbd4514acbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0435c538f0533cb0122f576d659c497') in 0.132089 seconds 
+  Import took 0.160389 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
