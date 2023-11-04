@@ -178,6 +178,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coridoor_chunk_1_MayaRemodel_NoUVs (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8215744761879114266, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -52.775066
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215744761879114266, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.0025928498
+      objectReference: {fileID: 0}
+    - target: {fileID: 8215744761879114266, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0004981995
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
 --- !u!1 &621476777
@@ -484,6 +496,18 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1071427035642283306, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 14.637409
+      objectReference: {fileID: 0}
+    - target: {fileID: -1071427035642283306, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 25.830784
+      objectReference: {fileID: 0}
+    - target: {fileID: -1071427035642283306, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -37.404396
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ada9abfff20b8234389cefe9663c8d6e, type: 3}
       propertyPath: m_Name
