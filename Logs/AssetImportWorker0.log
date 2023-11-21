@@ -208,3 +208,11 @@ Received Import Request.
 Start importing Assets/Models/FBX/Coridoors/Remodels/Coridoor_chunk_1_45_degrees_MayaRemodel_NoUVs.fbx using Guid(3cbbaca98d0b5704aa111d7515eedb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7de22c001fcd5681d59e71e6982e89') in 2.488889 seconds 
   Import took 2.502078 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1843.390677 seconds.
+  path: Assets/Models/FBX/Coridoors/Remodels/Coridoor_chunk_1_Half_MayaRemodel_NoUVs.fbx
+  artifactKey: Guid(91331b40a96648946b527816330826ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Remodels/Coridoor_chunk_1_Half_MayaRemodel_NoUVs.fbx using Guid(91331b40a96648946b527816330826ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5e9df9f26d8c18d8b5cbab8edbb66f9') in 0.903077 seconds 
+  Import took 0.919218 seconds .
+
