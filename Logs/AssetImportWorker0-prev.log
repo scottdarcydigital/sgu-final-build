@@ -192,3 +192,4 @@ Received Import Request.
 Start importing Assets/Models/FBX/Coridoors/Remodels/Corridor_Chunk_1_WallOverlay_Half_small.fbx using Guid(9141c8858694b434c9e6de98eca53c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0223bf9e5f6373b1279b860c2ff74c') in 0.089436 seconds 
   Import took 0.098697 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
