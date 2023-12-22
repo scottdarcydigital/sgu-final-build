@@ -224,3 +224,28 @@ Received Import Request.
 Start importing Assets/Models/FBX/Coridoors/Remodels/Corridor_Chunk_2.fbx using Guid(2c2ceb3ae1c8aa84d910c2ae16b50cff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06461c65debcdd680c678db3b51510e') in 0.084400 seconds 
   Import took 0.094003 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1817.286982 seconds.
+  path: Assets/Models/FBX/Coridoors/Remodels/Corridor_Chunk_3.fbx
+  artifactKey: Guid(d98c98151eb93d54380ff7ed929da32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Remodels/Corridor_Chunk_3.fbx using Guid(d98c98151eb93d54380ff7ed929da32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce90a9fd92ce8ae73a41b216cd946cc8') in 0.383576 seconds 
+  Import took 0.393636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.165773 seconds.
+  path: Assets/Models/FBX/Coridoors/Remodels/Corridor_Chunk_3.fbx
+  artifactKey: Guid(d98c98151eb93d54380ff7ed929da32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Remodels/Corridor_Chunk_3.fbx using Guid(d98c98151eb93d54380ff7ed929da32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50d48414889819fac710f969452ba19') in 0.082368 seconds 
+  Import took 0.091390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.246653 seconds.
+  path: Assets/Models/FBX/Coridoors/Remodels/Coridoor_chunk_1_MayaRemodel_NoUVs.fbx
+  artifactKey: Guid(2e26cf2bf4bf64648b841c03832f2c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/FBX/Coridoors/Remodels/Coridoor_chunk_1_MayaRemodel_NoUVs.fbx using Guid(2e26cf2bf4bf64648b841c03832f2c0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b33495bea6c6978892c90330eb179ef') in 0.794233 seconds 
+  Import took 0.803788 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
