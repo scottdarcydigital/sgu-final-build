@@ -1,8 +1,8 @@
 print "Starting maya loading and fbx conversion \n";
 	
-if (`file -q -exists "D:/GitHubRepos/sgu-final-build/Assets/Models/Maya/Corridor_Chunk_3_45Degree.mb"`)
+if (`file -q -exists "D:/GitHubRepos/sgu-final-build/Assets/Models/Maya/Corridor_Chunk_4_half.mb"`)
 {		
-	file -o "D:/GitHubRepos/sgu-final-build/Assets/Models/Maya/Corridor_Chunk_3_45Degree.mb";
+	file -o "D:/GitHubRepos/sgu-final-build/Assets/Models/Maya/Corridor_Chunk_4_half.mb";
 	FBXExportEmbeddedTextures -v false;
 	// FBXExportHardEdges -v true;
 	FBXExportApplyConstantKeyReducer -v false;
